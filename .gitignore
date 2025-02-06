@@ -1,0 +1,8 @@
+__pycache__/
+notion_store/
+venv/
+.env
+.cursorignore
+graph_store.gpickle
+hash_store.pkl
+processed_pages.pkl
